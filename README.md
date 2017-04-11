@@ -1,6 +1,6 @@
 # OpenDXL VirusTotal wrapper 
 
-![Alt text](https://cloud.githubusercontent.com/assets/24607076/24403798/665814c0-13b6-11e7-8e41-57137cd27ffd.png "Structure")
+![Alt text](https://cloud.githubusercontent.com/assets/24607076/24904967/31668bd0-1eaa-11e7-84c7-717d9803a16c.png "Structure")
 
 ## Intro
 [VirusTotal](https://www.virustotal.com) aggregates many antivirus products and online scan engines to check for possibles files and URLs threats.
