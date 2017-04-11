@@ -37,7 +37,7 @@ VIRUS_TOTAL_API_KEY = ''
 #### DXL TOPIC
 Set the variables SERVICE_INPUT and TOPIC_INPUT
 ```clj
-SERVICE_INPUT = "/reputations"
+SERVICE_INPUT = "/reputation"
 TOPIC_INPUT = SERVICE_INPUT + "/virustotal"
 ```
   
@@ -50,7 +50,7 @@ TOPIC_INPUT = SERVICE_INPUT + "/virustotal"
 
 2.  run the client specifying the TOPIC and the destination PAYLOAD
 
->python client.py -t /reputations/virustotal -p github.com
+>python client.py -t /reputation/virustotal -p https://github.com
 
 #### Results are shown as follows:
 
