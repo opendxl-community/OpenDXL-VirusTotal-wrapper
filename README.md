@@ -1,12 +1,11 @@
 # OpenDXL VirusTotal wrapper 
 
-# McAfee DXL - VirusTotal
-
 ![Alt text](https://cloud.githubusercontent.com/assets/24607076/24403798/665814c0-13b6-11e7-8e41-57137cd27ffd.png "Structure")
 
 ## Intro
 [VirusTotal](https://www.virustotal.com) aggregates many antivirus products and online scan engines to check for possibles files and URLs threats.
-VirusTotal's Public API lets you upload and scan files and URLs.
+VirusTotal's Public API lets you upload and scan files and URLs and this project focuses on an OpenDXL wrapper for this service.
+
 ## Setup
 
 #### McAfee OpenDXL
