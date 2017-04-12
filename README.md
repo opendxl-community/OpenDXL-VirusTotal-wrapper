@@ -29,7 +29,7 @@ PrivateKey=certs/client.key
 ```
 #### VirusTotal public API service
 
-To get an API key to use with the VirusTotal Add-on, you’ll need to set up a free account on [VirusTotal](https://www.virustotal.com) and define the **VIRUS_TOTAL_API_KEY** variable inside the **service.py** script.
+To get an API key to use with the VirusTotal service, you’ll need to set up a free account on [VirusTotal](https://www.virustotal.com) and define the **VIRUS_TOTAL_API_KEY** variable inside the **service.py** script.
 
 ```
 VIRUS_TOTAL_API_KEY = ''
